@@ -1,5 +1,7 @@
 # 🤖 Anthropic Chatbot (LangChain + LangGraph + Streamlit)
 
+click here to try the chatbot live https://langchatbot.streamlit.app/
+
 This project is a chatbot built using:
 - **LangChain**
 - **LangGraph**
